@@ -1,6 +1,6 @@
 ### Hello World!👋
-I am Diego Camargo, i was born in Spain, but i live in Brazil and i am currently studying information systems at UFF.
-I started studying **C**, **HTML**, **CSS** and **JavaScript**, soon after I joined {IN} Junior where I learned **React** in training and over time I learned * *Node.Js** and **React Native** and always putting it into practice through the company's projects.
+Eu sou Diego Camargo, nasci na Espanha, mas moro no Brasil e atualmente estou estudando sistemas de informação na UFF.
+Eu comecei estudando **C**, **HTML**, **CSS** e **JavaScript**, logo depois eu entrei na {IN} Junior onde aprendi **React** no treinamento e com o tempo eu aprendi um pouco de * *Node.Js** e **React Native** e sempre pondo em prática através de projetos da empresa.
 
 ### Hola Mundo!👋
 Yo soy Diego Camargo, nasci en España, pero vivo en el Brasil y atualmiente estoy estudiando sistemas de la informacion en la UFF.
